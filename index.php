@@ -21,11 +21,11 @@
             <ul>
                 <li class="activo"><a href="index.html">Home</a></li>
                 <li><a href="about.html">About</a></li>
-                <li><a href="contacto.html">Contacto</a></li>
-                <li><a href="usuario.html">Usuario</a></li>
-                <li class="redes"><a href="#"></a><img class="icon" src="img/4552607_facebook_logo_icon.png" alt=""></li>
-                <li class="redes"><a href="#"></a><img class="icon" src="img/777927_instagram_photo_photography_pictures_share_icon.png" alt=""></li>
-                <li class="redes"><a href="#"></a><img class="icon" src="img/1860492_whatsapp_social media_icon.png" alt=""></li>
+                <li><a href="#">Contacto</a></li>
+                <li><a href="#">Usuario</a></li>
+                <li class="redes"><a href="#"></a><img width="150px" height="75px" class="icon" src="img/4552607_facebook_logo_icon.png" alt=""></li>
+                <li class="redes"><a href="#"></a><img width="75px" height="75px" class="icon" src="img/777927_instagram_photo_photography_pictures_share_icon.png" alt=""></li>
+                <li class="redes"><a href="#"></a><img width="75px" height="75px" class="icon" src="img/1860492_whatsapp_social media_icon.png" alt=""></li>
             </ul>
         </nav>
 
@@ -80,7 +80,9 @@
             </div>
 
         <div class="bar">
+
             <!--Productos disponibles-->
+            
             <div class="busqueda" id="searchRight">
                 <input type="search" class="ingreso" id="trago"
                 name="alcohol" placeholder="Buscar trago...">
@@ -106,7 +108,6 @@
     </div>
 
     <!-- scripts -->
-
     
     <script src="js/IngredientesSeleccionados.js"></script>
     <script src="js/searchinput.js"></script>
